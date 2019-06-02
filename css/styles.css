@@ -1,9 +1,9 @@
 h1 {
     color: rgb(44, 5, 5);
-    font-style: oblique;
-    background-color: rgb(6, 84, 85);
+    font-style: italic;
+    background-color: rgb(209, 73, 19);
     margin-left: 50px;
-    border-style: unset;
+    border-style: hidden
     border-width: 10px;
     border-color: darkred;
     border-right-style: double;
