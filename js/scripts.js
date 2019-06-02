@@ -13,4 +13,4 @@ if (sideA==sideB & sideA==sideC) {
 console.log("Ooops! This is not a triangle!!")
 else {
     console.log("Not an equilateral triangle.")
-}
+} 
