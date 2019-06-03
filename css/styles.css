@@ -10,6 +10,7 @@ h1 {
     border-left-style: inset;
     border-radius: 10px;
 }
+
 body {
     background-image: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fworldsecretlocations.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fthe-great-pyramid-giza-04.jpg&f=1");
     background-repeat: no-repeat;
@@ -18,3 +19,14 @@ body {
     img{ 
         float: inherit;
     }
+
+    label {
+        display: block;
+        font-style: italic;
+    }
+
+    input label {
+        margin: 5rem;
+    }
+
+
