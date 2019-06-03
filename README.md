@@ -4,7 +4,7 @@
 ## Description
 {this is code for a triangle tracker application which will be used to differentiate between the different triangle types by determining the input values of the triangle's sides and classifying them as either Scalene, Equilateral or Isosceles. }
 ## Setup/Installation Requirements
-* git clone url ""
+* git clone url "https://karanja06.github.io/Triangle-Tracker-Project/."
 * cd Triangle-Tracker-Project
 * Open index.html in your browser.
 
